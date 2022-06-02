@@ -2,4 +2,5 @@
 
 ## Get Started
 - `yarn install`
-- `yarn run cypress open`
+- To run GUI `yarn run cypress open`
+- To just execute tests `yarn run cypress run`
